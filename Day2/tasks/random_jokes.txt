@@ -1,0 +1,10 @@
+{
+    "statusCode": 200,
+    "data": {
+        "categories": [],
+        "id": 380,
+        "content": "After Michael Jackson's death, investigators turned a blind eye to the huge Chuck Norris-shaped hole in the bedroom wall."
+    },
+    "message": "Random joke fetched successfully",
+    "success": true
+}
