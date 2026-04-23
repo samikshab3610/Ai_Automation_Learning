@@ -1,0 +1,25 @@
+🔥 Key Difference (Don’t mix this up)
+
+| Feature    | `os`             | `shutil`                   |
+| ---------- | ---------------- | -------------------------- |
+| Level      | Low-level        | High-level                 |
+| Use case   | Basic operations | Advanced file handling     |
+| Complexity | More manual      | Easier, built-in shortcuts |
+| Example    | Create folder    | Copy full directory        |
+
+
+💥 Simple analogy
+os = tools like screwdriver
+shutil = power drill
+
+Both useful, but for different jobs.
+
+🚀 When to use what
+
+Use os when:
+You need system-level control
+Working with paths, directories, environment
+
+Use shutil when:
+Copying/moving/deleting files or folders
+Handling bulk file operations
