@@ -1,0 +1,1 @@
+new_name = f"file_{i}.{ext}"
